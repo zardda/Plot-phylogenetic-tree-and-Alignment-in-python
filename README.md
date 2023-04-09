@@ -5,5 +5,5 @@
     
     pymsaviz  (https://github.com/moshi4/pyMSAviz)
     
-![Image text]https://github.com/zardda/Plot-phylogenetic-tree-and-Alignment-in-python/blob/main/example.png
+![Image text](https://github.com/zardda/Plot-phylogenetic-tree-and-Alignment-in-python/blob/main/example.png)
     
