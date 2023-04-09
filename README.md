@@ -1,5 +1,3 @@
-# Plot-phylogenetic-tree-and-Alignment-in-python
-
 # Plot phylogentic tree with Alignment in python 
 
 ## requirements：
